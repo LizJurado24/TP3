@@ -1,0 +1,31 @@
+#rompeCabezaImaginatelo8 {
+    position: relative;
+    width: 3710px;
+    height: 300px;
+
+}
+
+#piexa1 {
+    position: relative;
+    background-image: ;
+}
+
+#piexa2 {
+    position: relative;
+    background-image: ;
+    right: 68px;
+    top: 54px;
+}
+
+#piexa3 {
+    position: relative;
+    background-image: ;
+    bottom: 68px;
+}
+
+#piexa4 {
+    position: relative;
+    background-image: ;
+    bottom: 68px;
+    right: 68px;
+}

@@ -1,0 +1,37 @@
+div {
+
+    height: 100px;
+    width: 100px;
+    border: 1px solid #000;
+}
+
+#caja1 {
+    background-color: #49e;
+    position: absolute;
+    top: 0px;
+    right: 50%;
+
+
+}
+
+#caja2 {
+    background-color: rgb(218, 28, 154);
+    position: absolute;
+    right: 0%;
+    bottom: 50%;
+}
+
+#caja3 {
+    background-color: rgb(87, 248, 101);
+    position: absolute;
+    bottom: 0%;
+    right: 50%;
+}
+
+
+#caja4 {
+    background-color: rgb(238, 150, 68);
+    position: absolute;
+    left: 0%;
+    bottom: 50%;
+}

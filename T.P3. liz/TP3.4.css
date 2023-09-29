@@ -1,0 +1,42 @@
+body {
+    border: 0px;
+}
+
+nav {
+    width: 100%;
+    height: 100px;
+    top: 0;
+    background-image: linear-gradient(45deg, #08D7FF, #F70);
+    text-align: center;
+    position: sticky;
+}
+
+#seccion.1 {
+    width: 200px;
+    height: 200px;
+}
+
+.seccion-secundario {
+    width: 200px;
+    height: 50px;
+
+}
+
+
+
+#itemBarraLateral {
+    background-color: #3cdf3c;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+
+}
+
+aside {
+    width: 350px;
+    height: 500px;
+    right: 30%;
+    background-color: #20be42;
+    position: absolute;
+
+
+}

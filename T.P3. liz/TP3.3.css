@@ -1,0 +1,19 @@
+body {
+    margin: 0%;
+}
+
+#barra {
+    background-color: rgb(209, 94, 224);
+    border-radius: 7px;
+}
+
+#act4 {
+    margin: 0%;
+    background-color: rgb(209, 94, 254);
+    height: 300px;
+    width: 30%;
+    text-align: center;
+    position: relative;
+    left: 70%;
+    bottom: 263px;
+}
